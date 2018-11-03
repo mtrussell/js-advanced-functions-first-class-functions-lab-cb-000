@@ -1,6 +1,6 @@
 // Code your solution in this file!
 const returnFirstTwoDrivers = function (drivers) {
-  
+
 };
 
 const returnLastTwoDrivers = function (drivers) {
@@ -8,7 +8,7 @@ const returnLastTwoDrivers = function (drivers) {
 };
 
 
-const selectingDrivers = [];
+const selectingDrivers = [returnFirstTwoDrivers, returnLastTwoDrivers];
 
 
 function createFareMultiplier() {
