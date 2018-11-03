@@ -1,33 +1,31 @@
 // Code your solution in this file!
-
-function returnFirstTwoDrivers() {
+const returnFirstTwoDrivers = function (drivers) {
   
-}
+};
 
+const returnLastTwoDrivers = function (drivers) {
 
-function returnLastTwoDrivers() {
-  
-}
+};
 
 
 const selectingDrivers = [];
 
 
 function createFareMultiplier() {
-  
+
 }
 
 
 function fareDoubler() {
-  
+
 }
 
 
 function fareTripler() {
-  
+
 }
 
 
 function fetchSpecifiedDrivers(arrayOfDrivers, function) {
-  
+
 }
